@@ -1,0 +1,7 @@
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\bin\Debug\Decisions.exe.config
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\bin\Debug\Decisions.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\bin\Debug\Decisions.pdb
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\obj\Debug\Decisions.csproj.AssemblyReference.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\obj\Debug\Decisions.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Decisions\obj\Debug\Decisions.pdb
