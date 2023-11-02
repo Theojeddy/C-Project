@@ -1,0 +1,7 @@
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\bin\Debug\Variables.exe.config
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\bin\Debug\Variables.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\bin\Debug\Variables.pdb
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\obj\Debug\Variables.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\Variables\obj\Debug\Variables.pdb
