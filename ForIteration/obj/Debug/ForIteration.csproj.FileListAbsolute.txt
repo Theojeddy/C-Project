@@ -1,0 +1,7 @@
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\bin\Debug\ForIteration.exe.config
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\bin\Debug\ForIteration.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\bin\Debug\ForIteration.pdb
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\obj\Debug\ForIteration.csproj.AssemblyReference.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\obj\Debug\ForIteration.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\ForIteration\obj\Debug\ForIteration.pdb
