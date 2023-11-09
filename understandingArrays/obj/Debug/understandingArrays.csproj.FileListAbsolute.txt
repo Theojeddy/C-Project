@@ -1,0 +1,7 @@
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\bin\Debug\understandingArrays.exe.config
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\bin\Debug\understandingArrays.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\bin\Debug\understandingArrays.pdb
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\obj\Debug\understandingArrays.csproj.AssemblyReference.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\obj\Debug\understandingArrays.csproj.CoreCompileInputs.cache
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\obj\Debug\understandingArrays.exe
+D:\''''''''''''EVERYTHING'''''''''''\Personal Programming projects\C#Project\understandingArrays\obj\Debug\understandingArrays.pdb
